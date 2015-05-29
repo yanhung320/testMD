@@ -13,7 +13,7 @@ function fancyAlert(arg) {
 ```
 
 A |B 
---|--
+---|---
 12|45
 
 First Header | Second Header
